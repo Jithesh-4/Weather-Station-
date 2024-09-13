@@ -11,11 +11,11 @@
 #include <fonts/ElektronMart6x8.h>
 #include <fonts/Mono5x7.h>
 
-const char* ssid = "CIT-Campus";
-const char* password = "citchennai";
-const char* apiKey = "f844ea07cffb5358e45a8b0a876b189b";
-const char* city = "Chennai";
-const char* country = "IN";
+const char* ssid = "ENTER_YOUR_SSID";
+const char* password = "ENTER_YOUR_PASSWORD";
+const char* apiKey = "ENTER_API_KEY";
+const char* city = "ENTER_CITY";
+const char* country = "ENTER_COUNTRY_CODE";
 const char* server = "api.openweathermap.org";
 
 #define DISPLAYS_WIDE 2 // Panel Columns
